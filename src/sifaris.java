@@ -4,7 +4,7 @@ public class sifaris {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Sifaris meblegini qeyd edin: ");
-        int mebleg = sc.nextInt();
+        double mebleg = sc.nextDouble();
         sc.nextLine();
         int catdirilma = 0;
         System.out.println("Catdirilma bolgesini teyin edin: ");

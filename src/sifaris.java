@@ -35,6 +35,7 @@ public class sifaris {
                 System.out.println(seherSecimi + "-a catdirilma " + catdirilma + "azn olacaq.");
                 System.out.println("umumi odeyeceyiniz mebleg: " + mebleg);
             }
+            System.out.println("salamm");
         }
     }
 }
